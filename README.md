@@ -1,10 +1,10 @@
-### Machine Learning Model Training (Logistic Regression & Random Forest)
+# Machine Learning Model Training (Logistic Regression & Random Forest)
 
-**📌 Project Overview**
+## **📌 Project Overview**
 
 This project focuses on training Logistic Regression and Random Forest models for predictive analysis. It includes data preprocessing, model training, evaluation, and performance comparison.
 
-**🚀 Features**
+## **🚀 Features**
 
 Supervised Learning Models: Logistic Regression & Random Forest.
 
@@ -14,60 +14,61 @@ Model Evaluation: Accuracy, precision, recall, and confusion matrix.
 
 Comparison & Insights: Analyzing model performance on different datasets.
 
-**📊 Machine Learning Models Used**
+## **📊 Machine Learning Models Used**
 
 Logistic Regression: A simple linear model for classification.
 
 Random Forest: An ensemble model that improves classification accuracy.
 
-🛠️ Installation & Setup
+## **🛠️ Installation & Setup**
 
-Prerequisites
+### **Prerequisites**
 
-Python 3.x
+* Python 3.x
 
-Jupyter Notebook
+* Jupyter Notebook
 
-Required Libraries: scikit-learn, pandas, numpy, matplotlib
+* Required Libraries: scikit-learn, pandas, numpy, matplotlib
 
-**Steps**
+### **Steps**
 
 **1. Clone the repository:**
 
-git clone https://github.com/your-repo/ML-Model-Training.git"
+* `git clone https://github.com/your-repo/ML-Model-Training.git`
 
 **2. Navigate to the project folder:**
 
-cd ML-Model-Training
+* `cd ML-Model-Training`
 
 **3. Install dependencies:**
 
-pip install -r requirements.txt
+* `pip install -r requirements.txt`
 
 **4. Run Jupyter Notebook:**
-jupyter notebook Model_Training_LR_RF.ipynb
 
-**📈 Model Training Process**
+* `jupyter notebook Model_Training_LR_RF.ipynb`
 
-**Data Preprocessing**
+## **📈 Model Training Process**
 
-**Feature Engineering**
+* **Data Preprocessing**
 
-**Model Training (Logistic Regression & Random Forest)**
+* **Feature Engineering**
 
-**Performance Evaluation (Accuracy, Precision, Recall, F1-score)**
+* **Model Training (Logistic Regression & Random Forest)**
 
-**Hyperparameter Tuning (GridSearchCV, RandomizedSearchCV)**
+* **Performance Evaluation (Accuracy, Precision, Recall, F1-score)**
 
-**📦 Results & Analysis**
+* **Hyperparameter Tuning (GridSearchCV, RandomizedSearchCV)**
 
-The models are evaluated using various metrics.
+## **📦 Results & Analysis**
 
-A comparison is made between Logistic Regression and Random Forest.
+* The models are evaluated using various metrics.
 
-Performance insights and future improvements are discussed.
+* A comparison is made between Logistic Regression and Random Forest.
 
-**🏆 Future Enhancements**
+* Performance insights and future improvements are discussed.
+
+## **🏆 Future Enhancements**
 
 Additional Models: Experimenting with SVM, XGBoost, or Deep Learning.
 
@@ -75,9 +76,9 @@ Larger Datasets: Enhancing model generalization.
 
 Automated Model Selection.
 
-**👨‍💻 Contributors**
+## **👨‍💻 Contributors**
 
-**Sudhanshu Kumar** (Lead Developer)
+**Sudhanshu Kumar** [Lead Developer](https://github.com/sudhanshu-3301)
 
 Open for contributions! Feel free to fork and create a pull request.
 
